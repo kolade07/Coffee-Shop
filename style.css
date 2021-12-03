@@ -601,9 +601,6 @@ body {
   padding: 1.5rem;
 }
 
-.footer .credits span {
-  color: var(--sec-color);
-}
 /* media queries */
 @media (max-width: 991px) {
   #menu-btn {
