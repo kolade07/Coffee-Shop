@@ -542,7 +542,7 @@ body {
   color: var(--sec-color);
   display: block;
   padding-top: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .blog .box-container .box .content p {
